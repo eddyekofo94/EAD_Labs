@@ -9,12 +9,31 @@ namespace Lab1
          * and a read-write property corresponding to the field.
          * The radius must be always positive.
          */
-        protected int Radius { get; set; }
+        private int radius;
+        protected int Radius
+        {
+            get
+            {
+                return this.radius;
+            }
+            set
+            {
+                if (value <= 0)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
+                else
+                {
+                    this.radius = value;
+                }
+            }
+        }
 
         //3. Implement appropriate constructors for the class.
         public Sphere(int Radius, string type) : base(type)
         {
             this.Radius = Radius;
+
         }
 
         public override double Volume()
