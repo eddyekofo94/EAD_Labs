@@ -6,7 +6,13 @@ namespace Lab2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            Vertex vtx = new Vertex(2, 3);
+            Console.Write(vtx);
+
+            Shape shp = new Shape("Red");
+
+            Console.Write(shp);
         }
     }
 }
