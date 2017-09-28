@@ -1,12 +1,14 @@
 ﻿using System;
 using System.IO;
 using static Lab2.Shape;
+
 namespace Lab2
 {
     public class Line : Shape
     {
         private Vertex endPoint;
-        public Line(Vertex vertex1, Vertex vertex2, String colour) : base (colour)
+
+        public Line(Vertex vertex1, Vertex vertex2, String colour) : base(colour)
         {
             position = vertex1;
             endPoint = vertex2;
@@ -21,7 +23,7 @@ namespace Lab2
         {
             position.X += x;
             position.Y += y;
-            
+
             //The end point of the vertext moves here
             endPoint.X += x;
             endPoint.Y += y;
