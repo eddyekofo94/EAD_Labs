@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{7F2664AF-0555-4224-A9FE-FEE3D211AE92}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Shape.cs">
     <Files>
-      <File FileName="Shape.cs" Line="22" Column="1" />
+      <File FileName="Shape.cs" Line="28" Column="23" />
       <File FileName="Program.cs" Line="15" Column="32" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

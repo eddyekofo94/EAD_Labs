@@ -6,13 +6,18 @@ namespace Lab2
         //protected int x, y; //Variables
         public Vertex(int x, int y)
         {
-            this.X = x;
-            this.Y = y;
+            X = x;
+            Y = y;
+        }
+        
+        //default constructor
+        public Vertex()
+        {
         }
 
-		//3.    Implement appropriate properties for the class.
-		protected int X { get; set; }
-        protected int Y { get; set; }
+        //3.    Implement appropriate properties for the class.
+		public int X { get; set; }
+        public int Y { get; set; }
 
         public override string ToString()
         {

@@ -7,12 +7,13 @@ namespace Lab2
         public static void Main(string[] args)
         {
             
-            Vertex vtx = new Vertex(2, 3);
-            Console.Write(vtx);
+            //Vertex vtx1 = new Vertex(2, 3);
 
-            Shape shp = new Shape("Red");
-
-            Console.Write(shp);
+            //Shape shp = new Shape("Red");
+            Line line = new Line(new Vertex(2,3), new Vertex(3, 4), "red");
+            line.Translate(2, 2);
+            
+            Console.Write(line);
         }
     }
 }
