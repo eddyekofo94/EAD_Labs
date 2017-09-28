@@ -11,6 +11,7 @@ namespace Lab2
 
             //Shape shp = new Shape("Red");
             Line line = new Line(new Vertex(2,3), new Vertex(3, 4), "red");
+            Console.Write(line);
             line.Translate(2, 2);
             
             Console.Write(line);

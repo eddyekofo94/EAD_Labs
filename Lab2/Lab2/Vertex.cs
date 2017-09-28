@@ -21,7 +21,7 @@ namespace Lab2
 
         public override string ToString()
         {
-            return string.Format("Vertex:\n x: " + X + " y: " + Y);
+            return string.Format("x: {0} , y: {1}", X, Y);
         }
     }
 }

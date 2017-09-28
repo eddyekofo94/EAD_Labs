@@ -14,13 +14,17 @@ namespace Lab2
 
         public override string ToString()
         {
-            return base.ToString() + "Position: " + position + " end position: " + endPoint;
+            return string.Format("{0}\n Curent Position: {1}\n End Point {2}\n", base.ToString(), position, endPoint);
         }
 
         public override void Translate(int x, int y)
         {
             position.X += x;
             position.Y += y;
+            
+            //The end point of the vertext moves here
+            endPoint.X += x;
+            endPoint.Y += y;
         }
     }
 }

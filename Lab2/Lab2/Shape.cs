@@ -14,7 +14,7 @@
         // The ToString
         public override string ToString()
         {
-            return string.Format("Shape:\nColour: " + Colour);
+            return string.Format("Colour: {0}\n", Colour);
         }
 
         /*
