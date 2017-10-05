@@ -4,29 +4,14 @@ namespace Lab4
 {
     public class Calculator
     {
-        public float NumberToBeDevided { get; set; }
-        private float _numberThatDevides;
-
-        public Calculator()
+        public static void DivideFloatingPoints(float dividend, float divisor)
         {
-            
-        }
-        
-        public float NumberThatDevides
-        {
-            get => _numberThatDevides;
-            set
+            if (divisor == 0)
             {
-            if (_numberThatDevides == 0)
-            {
-                Console.WriteLine("Can't devide by 0");
+                Console.WriteLine("Divisor can't be 0, Thank you");
                 throw new ArgumentException();
             }
-
-            return NumberToBeDevided = numberIn;
-                
-            }
-        }
-        
+            Console.WriteLine("Answer: {0}", dividend / divisor);
+        } //end of static method DivideFloatingPoints
     }
 }
