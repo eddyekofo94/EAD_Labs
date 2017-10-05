@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2beb6a9a-739b-4d13-9559-948ae98a59dd" name="Default" comment="" />
+    <list default="true" id="2beb6a9a-739b-4d13-9559-948ae98a59dd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HasVolume.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sphere.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab1/Program.cs" afterPath="$PROJECT_DIR$/../Lab1/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab2/Lab2/.idea/.idea.Lab2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lab2/Lab2/.idea/.idea.Lab2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab2/Lab2/Circle.cs" afterPath="$PROJECT_DIR$/../Lab2/Lab2/Circle.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab2/Lab2/Line.cs" afterPath="$PROJECT_DIR$/../Lab2/Lab2/Line.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab2/Lab2/Program.cs" afterPath="$PROJECT_DIR$/../Lab2/Lab2/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab2/Lab2/Shape.cs" afterPath="$PROJECT_DIR$/../Lab2/Lab2/Shape.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab2/Lab2/Vertex.cs" afterPath="$PROJECT_DIR$/../Lab2/Lab2/Vertex.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab3.csproj" afterPath="$PROJECT_DIR$/Lab3.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeDShape .cs" afterPath="$PROJECT_DIR$/ThreeDShape .cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,29 +31,105 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ThreeDShape .cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ThreeDShape .cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding>
-                <marker date="1506614430201" expanded="true" signature="14:69" ph="{...}" />
-                <marker date="1506614430201" expanded="true" signature="46:67" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5062893">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ThreeDShape .cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ThreeDShape .cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="249">
+                  <caret line="33" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+                  <folding>
+                    <marker date="1507196076339" expanded="true" signature="14:1195" ph="{...}" />
+                    <marker date="1507196076339" expanded="true" signature="119:1193" ph="{...}" />
+                    <marker date="1507196076339" expanded="true" signature="231:276" ph="{...}" />
+                    <marker date="1507196076339" expanded="true" signature="309:329" ph="{...}" />
+                    <marker date="1507196076339" expanded="true" signature="338:550" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
+                    <marker date="1507196076339" expanded="true" signature="605:709" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
+                    <marker date="1507196076339" expanded="true" signature="764:910" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
+                    <marker date="1507196076339" expanded="true" signature="953:1187" ph="{...}" />
+                    <marker date="1507196076339" expanded="true" signature="1066:1177" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="HasVolume.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/HasVolume.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+                  <folding>
+                    <marker date="1507195800078" expanded="true" signature="14:90" ph="{...}" />
+                    <marker date="1507195800078" expanded="true" signature="47:88" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Main.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Main.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="319">
+                  <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+                  <folding>
+                    <marker date="1507066193566" expanded="false" signature="6:47" ph="..." />
+                    <marker date="1507066193566" expanded="true" signature="101:1302" ph="{...}" />
+                    <marker date="1507066193566" expanded="true" signature="188:1300" ph="{...}" />
+                    <marker date="1507066193566" expanded="true" signature="241:1294" ph="{...}" />
+                    <marker date="1507066193566" expanded="true" signature="264:522" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
+                    <marker date="1507066193566" expanded="true" signature="730:824" ph="{...}" />
+                    <marker date="1507066193566" expanded="true" signature="865:978" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Sphere.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Sphere.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="139">
+                  <caret line="9" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="1" />
+                  <folding>
+                    <marker date="1507196076329" expanded="true" signature="29:1256" ph="{...}" />
+                    <marker date="1507196076329" expanded="true" signature="69:1254" ph="{...}" />
+                    <marker date="1507196076329" expanded="true" signature="104:297" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
+                    <marker date="1507196076329" expanded="true" signature="450:499" ph="{...}" />
+                    <marker date="1507196076329" expanded="true" signature="526:744" ph="{...}" />
+                    <marker date="1507196076329" expanded="true" signature="580:734" ph="{...}" />
+                    <marker date="1507196076329" expanded="true" signature="789:949" ph="{...}" />
+                    <marker date="1507196076329" expanded="true" signature="959:1104" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
+                    <marker date="1507196076329" expanded="true" signature="1146:1248" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Sphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HasVolume.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ThreeDShape .cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Main.cs" />
+        <option value="$PROJECT_DIR$/IHasVolume.cs" />
+        <option value="$PROJECT_DIR$/HasVolume.cs" />
         <option value="$PROJECT_DIR$/ThreeDShape .cs" />
+        <option value="$PROJECT_DIR$/Sphere.cs" />
       </list>
     </option>
   </component>
@@ -52,6 +142,9 @@
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -68,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -88,11 +182,11 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Default">
+  <component name="RunManager" selected=".NET Project.C#">
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_KIND" value="None" />
@@ -139,6 +233,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -161,7 +261,7 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+    <configuration default="false" name="C#" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_KIND" value="None" />
       <option name="PROJECT_TFM" value="" />
@@ -174,7 +274,7 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.C#" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -187,12 +287,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506613870686</updated>
-      <workItem from="1506613872165" duration="412000" />
+      <workItem from="1506613872165" duration="1328000" />
+      <workItem from="1506683103539" duration="3386000" />
+      <workItem from="1507146944489" duration="480000" />
+      <workItem from="1507194790431" duration="2141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="412000" />
+    <option name="totallyTimeSpent" value="7335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,24 +311,24 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12017167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -236,17 +339,260 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ThreeDShape .cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="650">
+          <caret line="25" column="51" lean-forward="false" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
           <folding>
-            <marker date="1506614430201" expanded="true" signature="14:69" ph="{...}" />
-            <marker date="1506614430201" expanded="true" signature="46:67" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="14:1195" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="119:1193" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="231:276" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="309:329" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="338:550" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
+            <marker date="1507196076339" expanded="true" signature="605:709" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
+            <marker date="1507196076339" expanded="true" signature="764:910" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
+            <marker date="1507196076339" expanded="true" signature="953:1187" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="1066:1177" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HasVolume.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1507195800078" expanded="true" signature="14:90" ph="{...}" />
+            <marker date="1507195800078" expanded="true" signature="47:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <marker date="1507066193566" expanded="false" signature="6:47" ph="..." />
+            <marker date="1507066193566" expanded="true" signature="101:1302" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="188:1300" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="241:1294" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="264:522" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
+            <marker date="1507066193566" expanded="true" signature="730:824" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="865:978" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507196076329" expanded="true" signature="29:1256" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="69:1254" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="104:297" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
+            <marker date="1507196076329" expanded="true" signature="450:499" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="526:744" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="580:734" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="789:949" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="959:1104" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
+            <marker date="1507196076329" expanded="true" signature="1146:1248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreeDShape .cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="51" lean-forward="false" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <marker date="1507196076339" expanded="true" signature="14:1195" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="119:1193" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="231:276" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="309:329" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="338:550" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
+            <marker date="1507196076339" expanded="true" signature="605:709" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
+            <marker date="1507196076339" expanded="true" signature="764:910" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
+            <marker date="1507196076339" expanded="true" signature="953:1187" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="1066:1177" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HasVolume.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1507195800078" expanded="true" signature="14:90" ph="{...}" />
+            <marker date="1507195800078" expanded="true" signature="47:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <marker date="1507066193566" expanded="false" signature="6:47" ph="..." />
+            <marker date="1507066193566" expanded="true" signature="101:1302" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="188:1300" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="241:1294" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="264:522" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
+            <marker date="1507066193566" expanded="true" signature="730:824" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="865:978" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507196076329" expanded="true" signature="29:1256" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="69:1254" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="104:297" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
+            <marker date="1507196076329" expanded="true" signature="450:499" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="526:744" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="580:734" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="789:949" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="959:1104" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
+            <marker date="1507196076329" expanded="true" signature="1146:1248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreeDShape .cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <marker date="1507196076339" expanded="true" signature="14:1195" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="119:1193" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="231:276" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="309:329" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="338:550" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
+            <marker date="1507196076339" expanded="true" signature="605:709" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
+            <marker date="1507196076339" expanded="true" signature="764:910" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
+            <marker date="1507196076339" expanded="true" signature="953:1187" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="1066:1177" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <marker date="1507066193566" expanded="false" signature="6:47" ph="..." />
+            <marker date="1507066193566" expanded="true" signature="101:1302" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="188:1300" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="241:1294" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="264:522" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
+            <marker date="1507066193566" expanded="true" signature="730:824" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="865:978" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HasVolume.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1507195800078" expanded="true" signature="14:90" ph="{...}" />
+            <marker date="1507195800078" expanded="true" signature="47:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507196076329" expanded="true" signature="29:1256" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="69:1254" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="104:297" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
+            <marker date="1507196076329" expanded="true" signature="450:499" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="526:744" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="580:734" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="789:949" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="959:1104" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
+            <marker date="1507196076329" expanded="true" signature="1146:1248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreeDShape .cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <marker date="1507196076339" expanded="true" signature="14:1195" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="119:1193" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="231:276" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="309:329" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="338:550" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
+            <marker date="1507196076339" expanded="true" signature="605:709" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
+            <marker date="1507196076339" expanded="true" signature="764:910" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
+            <marker date="1507196076339" expanded="true" signature="953:1187" ph="{...}" />
+            <marker date="1507196076339" expanded="true" signature="1066:1177" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <marker date="1507196076329" expanded="true" signature="29:1256" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="69:1254" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="104:297" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
+            <marker date="1507196076329" expanded="true" signature="450:499" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="526:744" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="580:734" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="789:949" ph="{...}" />
+            <marker date="1507196076329" expanded="true" signature="959:1104" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
+            <marker date="1507196076329" expanded="true" signature="1146:1248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HasVolume.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1507195800078" expanded="true" signature="14:90" ph="{...}" />
+            <marker date="1507195800078" expanded="true" signature="47:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1507066193566" expanded="false" signature="6:47" ph="..." />
+            <marker date="1507066193566" expanded="true" signature="101:1302" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="188:1300" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="241:1294" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="264:522" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
+            <marker date="1507066193566" expanded="true" signature="730:824" ph="{...}" />
+            <marker date="1507066193566" expanded="true" signature="865:978" ph="{...}" />
           </folding>
         </state>
       </provider>

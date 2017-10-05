@@ -1,8 +1,8 @@
-﻿namespace Lab3
+﻿namespace Lab3_Finished
 {
     //1.    Implement an abstract class ThreeDShape
 
-    public abstract class ThreeDShape : HasVolume
+    public abstract class ThreeDShape : IHasVolume
     {
         //3. Implement appropriate constructors for the class
 
