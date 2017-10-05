@@ -9,10 +9,9 @@ namespace Lab1
         public static void Main(string[] args)
         {
             /*
-             * Test the class. Call the method to calculate the volume of a 
-             * sphere polymorphically. Display details of the sphere object. 
+             * Test the class. Call the method to calculate the volume of a
+             * sphere polymorphically. Display details of the sphere object.
              * Make a collection of spheres and call various methods on each sphere
-
              */
 
             //Instance of sphere.

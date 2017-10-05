@@ -22,6 +22,7 @@ namespace Lab3
             get => _radius;
             set
             {
+                
                 if (value <= 0)
                     throw new ArgumentOutOfRangeException();
                 _radius = value;

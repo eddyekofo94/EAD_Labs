@@ -4,36 +4,22 @@ namespace Lab2
 {
     public class Circle : Shape
     {
-        private Vertex Vertex { get; set; }
+        //private Vertex Vertex { get; set; }
         private int Radius { get; set; }
-        private Vertex endPoint { get; set; }
 
-        public Circle(string colour, Vertex vertex, int radius) : base(colour)
+        public Circle(string colour, Vertex position, int radius) : base(colour, position)
         {
-            Vertex = vertex;
             Radius = radius;
         }
 
         public override string ToString()
         {
-            return string.Format("{0}\n Points: {1}\n Radius: {2}", base.ToString(), Vertex, Radius);
+            return string.Format("{0}\n Position: {1}\n Radius: {2}\nArea: {3}", base.ToString(), Position, Radius, Area());
         }
-
-        public override void Translate(int x, int y)
-        {
-            position.X = x;
-            position.Y = y;
-
-            endPoint.X = x;
-            endPoint.Y = y;
-        }
-
+        
         public double Area()
         {
-
-        private double result;
-            return result = Math.PI* Math.Pow(Radius, 2);
-    }
+            return Math.Round(Math.PI * Math.Pow(Radius, 2),2);
+        }
 }
-
 }

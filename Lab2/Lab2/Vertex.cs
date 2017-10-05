@@ -3,19 +3,18 @@ namespace Lab2
 {
     public class Vertex
     {
-        //protected int x, y; //Variables
         public Vertex(int x, int y)
         {
             X = x;
             Y = y;
         }
         
-        //default constructor
+        // default constructor
         public Vertex()
         {
         }
 
-        //3.    Implement appropriate properties for the class.
+        // 3.    Implement appropriate properties for the class.
 		public int X { get; set; }
         public int Y { get; set; }
 

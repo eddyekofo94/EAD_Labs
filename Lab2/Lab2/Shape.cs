@@ -2,10 +2,11 @@
 {
     public class Shape
     {
-        public Vertex position;
+        public Vertex Position;
 
-        public Shape(string colour)
+        public Shape(string colour, Vertex position)
         {
+            Position = position;
             Colour = colour;
         }
 
@@ -28,8 +29,8 @@
 
         public virtual void Translate(int x, int y)
         {
-            position.X += x;
-            position.Y += y;
+            Position.X += x;
+            Position.Y += y;
         }
     }
 }
