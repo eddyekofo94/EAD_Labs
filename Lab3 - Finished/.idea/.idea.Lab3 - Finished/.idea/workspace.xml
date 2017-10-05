@@ -23,14 +23,14 @@
           <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Program.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="367">
+                <state relative-caret-position="485">
                   <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
                   <folding>
-                    <marker date="1507197315192" expanded="false" signature="6:47" ph="..." />
-                    <marker date="1507197315192" expanded="true" signature="72:1050" ph="{...}" />
-                    <marker date="1507197315192" expanded="true" signature="101:1048" ph="{...}" />
-                    <marker date="1507197315192" expanded="true" signature="154:1042" ph="{...}" />
-                    <marker date="1507197315192" expanded="true" signature="177:431" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
+                    <marker date="1507198737196" expanded="false" signature="6:47" ph="..." />
+                    <marker date="1507198737196" expanded="true" signature="72:1050" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="101:1048" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="154:1042" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="177:431" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
                   </folding>
                 </state>
               </provider>
@@ -42,8 +42,8 @@
                 <state relative-caret-position="156">
                   <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
                   <folding>
-                    <marker date="1507196661617" expanded="true" signature="23:100" ph="{...}" />
-                    <marker date="1507196661617" expanded="true" signature="57:98" ph="{...}" />
+                    <marker date="1507198737194" expanded="true" signature="23:100" ph="{...}" />
+                    <marker date="1507198737194" expanded="true" signature="57:98" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -59,15 +59,15 @@
                 <state relative-caret-position="36">
                   <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
                   <folding>
-                    <marker date="1507196661623" expanded="true" signature="23:1205" ph="{...}" />
-                    <marker date="1507196661623" expanded="true" signature="129:1203" ph="{...}" />
-                    <marker date="1507196661623" expanded="true" signature="241:286" ph="{...}" />
-                    <marker date="1507196661623" expanded="true" signature="319:339" ph="{...}" />
-                    <marker date="1507196661623" expanded="true" signature="348:560" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
-                    <marker date="1507196661623" expanded="true" signature="615:719" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
-                    <marker date="1507196661623" expanded="true" signature="774:920" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
-                    <marker date="1507196661623" expanded="true" signature="963:1197" ph="{...}" />
-                    <marker date="1507196661623" expanded="true" signature="1076:1187" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
+                    <marker date="1507198737197" expanded="true" signature="23:1205" ph="{...}" />
+                    <marker date="1507198737197" expanded="true" signature="129:1203" ph="{...}" />
+                    <marker date="1507198737197" expanded="true" signature="241:286" ph="{...}" />
+                    <marker date="1507198737197" expanded="true" signature="319:339" ph="{...}" />
+                    <marker date="1507198737197" expanded="true" signature="348:560" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
+                    <marker date="1507198737197" expanded="true" signature="615:719" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
+                    <marker date="1507198737197" expanded="true" signature="774:920" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
+                    <marker date="1507198737197" expanded="true" signature="963:1197" ph="{...}" />
+                    <marker date="1507198737197" expanded="true" signature="1076:1187" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
                   </folding>
                 </state>
               </provider>
@@ -77,19 +77,19 @@
             <entry file="file://$PROJECT_DIR$/Sphere.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="379">
-                  <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+                  <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
                   <folding>
-                    <marker date="1507198502114" expanded="true" signature="38:1671" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="78:1669" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="113:306" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
-                    <marker date="1507198502114" expanded="true" signature="459:508" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="535:1158" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="589:1148" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="623:853" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="905:1066" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="1204:1364" ph="{...}" />
-                    <marker date="1507198502114" expanded="true" signature="1374:1519" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
-                    <marker date="1507198502114" expanded="true" signature="1561:1663" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="38:1671" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="78:1669" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="113:306" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
+                    <marker date="1507198737196" expanded="true" signature="459:508" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="535:1158" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="589:1148" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="623:853" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="905:1066" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="1204:1364" ph="{...}" />
+                    <marker date="1507198737196" expanded="true" signature="1374:1519" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
+                    <marker date="1507198737196" expanded="true" signature="1561:1663" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -248,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507196273127</updated>
-      <workItem from="1507196274762" duration="2196000" />
+      <workItem from="1507196274762" duration="2696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2196000" />
+    <option name="totallyTimeSpent" value="2696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,15 +266,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14020029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -307,8 +306,8 @@
         <state relative-caret-position="156">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
-            <marker date="1507196661617" expanded="true" signature="23:100" ph="{...}" />
-            <marker date="1507196661617" expanded="true" signature="57:98" ph="{...}" />
+            <marker date="1507198737194" expanded="true" signature="23:100" ph="{...}" />
+            <marker date="1507198737194" expanded="true" signature="57:98" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -318,29 +317,29 @@
         <state relative-caret-position="36">
           <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
-            <marker date="1507196661623" expanded="true" signature="23:1205" ph="{...}" />
-            <marker date="1507196661623" expanded="true" signature="129:1203" ph="{...}" />
-            <marker date="1507196661623" expanded="true" signature="241:286" ph="{...}" />
-            <marker date="1507196661623" expanded="true" signature="319:339" ph="{...}" />
-            <marker date="1507196661623" expanded="true" signature="348:560" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
-            <marker date="1507196661623" expanded="true" signature="615:719" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
-            <marker date="1507196661623" expanded="true" signature="774:920" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
-            <marker date="1507196661623" expanded="true" signature="963:1197" ph="{...}" />
-            <marker date="1507196661623" expanded="true" signature="1076:1187" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
+            <marker date="1507198737197" expanded="true" signature="23:1205" ph="{...}" />
+            <marker date="1507198737197" expanded="true" signature="129:1203" ph="{...}" />
+            <marker date="1507198737197" expanded="true" signature="241:286" ph="{...}" />
+            <marker date="1507198737197" expanded="true" signature="319:339" ph="{...}" />
+            <marker date="1507198737197" expanded="true" signature="348:560" ph="/* 2. The class should have a field which stores the type of the shape ... */" />
+            <marker date="1507198737197" expanded="true" signature="615:719" ph="/* 4. Implement an abstract method which calculates the volume of the shape. ... */" />
+            <marker date="1507198737197" expanded="true" signature="774:920" ph="/* 5. Override the ToString() method inherited from System.Object, ... */" />
+            <marker date="1507198737197" expanded="true" signature="963:1197" ph="{...}" />
+            <marker date="1507198737197" expanded="true" signature="1076:1187" ph="/* string details = &quot;Type of shape: {0}, Volume: {1}&quot;, Type, Volumes().ToString(); ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
+        <state relative-caret-position="485">
           <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
           <folding>
-            <marker date="1507197315192" expanded="false" signature="6:47" ph="..." />
-            <marker date="1507197315192" expanded="true" signature="72:1050" ph="{...}" />
-            <marker date="1507197315192" expanded="true" signature="101:1048" ph="{...}" />
-            <marker date="1507197315192" expanded="true" signature="154:1042" ph="{...}" />
-            <marker date="1507197315192" expanded="true" signature="177:431" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
+            <marker date="1507198737196" expanded="false" signature="6:47" ph="..." />
+            <marker date="1507198737196" expanded="true" signature="72:1050" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="101:1048" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="154:1042" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="177:431" ph="/* Test the class. Call the method to calculate the volume of a ... */" />
           </folding>
         </state>
       </provider>
@@ -348,19 +347,19 @@
     <entry file="file://$PROJECT_DIR$/Sphere.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding>
-            <marker date="1507198502114" expanded="true" signature="38:1671" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="78:1669" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="113:306" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
-            <marker date="1507198502114" expanded="true" signature="459:508" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="535:1158" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="589:1148" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="623:853" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="905:1066" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="1204:1364" ph="{...}" />
-            <marker date="1507198502114" expanded="true" signature="1374:1519" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
-            <marker date="1507198502114" expanded="true" signature="1561:1663" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="38:1671" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="78:1669" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="113:306" ph="/* 2. The class should have field to store the radius of the sphere, ... */" />
+            <marker date="1507198737196" expanded="true" signature="459:508" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="535:1158" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="589:1148" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="623:853" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="905:1066" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="1204:1364" ph="{...}" />
+            <marker date="1507198737196" expanded="true" signature="1374:1519" ph="/* 5. Override the ToString() method inherited from ThreeDShape, ... */" />
+            <marker date="1507198737196" expanded="true" signature="1561:1663" ph="{...}" />
           </folding>
         </state>
       </provider>
